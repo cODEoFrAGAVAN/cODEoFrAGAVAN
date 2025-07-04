@@ -11,7 +11,7 @@
 - 🔭 I'm currently working with my mind to feel good
 - 🌱 I’m currently learning must needed programming languages
 - 👯 I’m looking for a oppertunity in the IT feild
-- 🥅 2022 Goals: Learning new technologies and Getting a job
+- 🥅 2025 Goals: Learning new technologies and Getting a job
 - ⚡ Fun fact: Programmers will start count from zero not from one
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: ragavendran.pythondev@gmail.com
